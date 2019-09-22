@@ -1,0 +1,40 @@
+//
+//
+//	V0.16 Change Notes
+//
+//
+
+
+
+//General
+	-
+	
+	
+//Home Page
+	-Changed iFrames to Twitch
+	-Fixed stream iFrame
+	
+	
+//About Page
+	-Fixed wording
+	-Replaced Apex Legends playlist with "Stuff?"
+	
+	
+//Merch Page
+	-
+	
+	
+//Teams
+	-
+	
+	
+//Contact
+	-
+	
+
+//Specs
+	-
+	
+	
+//Privacy
+	-
