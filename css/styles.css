@@ -217,7 +217,7 @@ No media query since this is the default in Bootstrap because it is "mobile firs
 
 
 /*/////////////////////
-	Mixer Buttons
+	Twitch Buttons
 /////////////////////*/
 
 
@@ -238,7 +238,7 @@ a.Twitch-button
 
 a.Twitch-button span.left 
 {
-	background-color:#6441a5; 
+	background-color:#9246FF; 
 	padding: 11px 7px; 
 	border-radius: 2px 0px 0px 2px;
 	transition: all .2s ease;
@@ -246,7 +246,7 @@ a.Twitch-button span.left
 
 a.Twitch-button span.right 
 {
-	background-color: #6441a5;
+	background-color: #9246FF;
 	padding: 11px 7px; 
 	border-radius: 0px 2px 2px 0px;
 	transition: all .2s ease;
@@ -254,13 +254,13 @@ a.Twitch-button span.right
 
 a.Twitch-button:hover span.left
 {
-	background-color:#4B288C;
+	background-color:#333;
 	transition: all .2s ease;
 }
 
 a.Twitch-button:hover span.right
 {
-	background-color:#4B288C;
+	background-color:#333;
 	transition: all .2s ease;
 }
 
@@ -282,7 +282,7 @@ a.Twitch-button-sub
 
 a.Twitch-button-sub span.left 
 {
-	background-color:#DF168A; 
+	background-color:#9246FF; 
 	padding: 11px 7px; 
 	border-radius: 2px 0px 0px 2px;
 	transition: all .2s ease;
@@ -290,7 +290,7 @@ a.Twitch-button-sub span.left
 
 a.Twitch-button-sub span.right 
 {
-	background-color:#C0006B; 
+	background-color:#9246FF; 
 	padding: 11px 7px; 
 	border-radius: 0px 2px 2px 0px;
 	transition: all .2s ease;
