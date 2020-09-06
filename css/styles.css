@@ -351,7 +351,14 @@ a.Twitch-button-mix:hover span.left {
     height: 75vh;
 }
 
-
+.video {
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .1);
+    border: 3px solid #B71C1C;
+    outline: none;
+}
 
 
 
